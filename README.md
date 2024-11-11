@@ -31,6 +31,7 @@ In case of any questions, do not hesitate to contact me (see the GitHub profile)
 # Cite
 
 To cite the code, please cite the paper:
+
 Ondřej Draganov and Steven Skiena. 2024. [The Shape of Word Embeddings: Quantifying Non-Isometry with Topological Data Analysis](https://aclanthology.org/2024.findings-emnlp.705/). In _Findings of the Association for Computational Linguistics: EMNLP 2024_, pages 12080–12099, Miami, Florida, USA. Association for Computational Linguistics.
 
 BibTeX:
